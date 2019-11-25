@@ -1,0 +1,2 @@
+Primeiro é preciso criar uma base de dados "wordpress" no phpmyadmin, em seguida, importar o arquivo "wordpress" e
+após isso irá funcionar normalmente.
